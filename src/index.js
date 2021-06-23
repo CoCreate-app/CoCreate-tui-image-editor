@@ -1,16 +1,20 @@
-const CoCreateBoilerplate = {
-  
-	init: function(container) {
-		let mainContainer = container || document;
-		if (!mainContainer.querySelectorAll) {
-			return;
-		}
-		
-		let elements = mainContainer.querySelectorAll('[data-namespace], [data-room]');
-		
-	}
-}
+import ImageEditor from 'tui-image-editor';
+//import FileSaver from 'file-saver'; //to download edited image to local. Use after npm install file-saver
+//const ImageEditor = require('tui-image-editor');
 
-CoCreateBoilerplate.init();
-
-export default CoCreateBoilerplate;
+const instance = new ImageEditor(document.querySelector('#tui-image-editor'), {
+  includeUI: {
+    loadImage: {
+      path: '../img/1.jpg',
+      name: 'SampleImage',
+    },
+    initMenu: 'filter',
+    menuBarPosition: 'bottom',
+  },
+  cssMaxWidth: 700,
+  cssMaxHeight: 500,
+  selectionStyle: {
+    cornerSize: 20,
+    rotatingPointOffset: 70,
+  },
+});

@@ -1,19 +1,19 @@
-# Contributing to CoCreate-boilerplate
+# Contributing to CoCreate-tui-image-editor
 
-This project is work of [many contributors](https://github.com/CoCreate-app/CoCreate-boilerplate/graphs/contributors).
-You're encouraged to submit [pull requests](https://github.com/CoCreate-app/CoCreate-boilerplate/pulls),
-[propose features and discuss issues](https://github.com/CoCreate-app/CoCreate-boilerplate/issues).
+This project is work of [many contributors](https://github.com/CoCreate-app/CoCreate-tui-image-editor/graphs/contributors).
+You're encouraged to submit [pull requests](https://github.com/CoCreate-app/CoCreate-tui-image-editor/pulls),
+[propose features and discuss issues](https://github.com/CoCreate-app/CoCreate-tui-image-editor/issues).
 
 In the examples below, substitute your Github username for `contributor` in URLs.
 
 ## Fork the Project
 
-Fork the [project on Github](https://github.com/CoCreate-app/CoCreate-boilerplate) and check out your copy.
+Fork the [project on Github](https://github.com/CoCreate-app/CoCreate-tui-image-editor) and check out your copy.
 
 ```
-git clone https://github.com/contributor/CoCreate-boilerplate.git
-cd CoCreate-boilerplate
-git remote add upstream https://github.com/CoCreate-app/CoCreate-boilerplate.git
+git clone https://github.com/contributor/CoCreate-tui-image-editor.git
+cd CoCreate-tui-image-editor
+git remote add upstream https://github.com/CoCreate-app/CoCreate-tui-image-editor.git
 ```
 
 ## Create a Topic Branch
@@ -75,7 +75,7 @@ git push origin my-feature-branch
 
 ## Make a Pull Request
 
-Go to [https://github.com/CoCreate-app/CoCreate-boilerplate](https://github.com/CoCreate-app/CoCreate-boilerplate) and select your feature branch.
+Go to [https://github.com/CoCreate-app/CoCreate-tui-image-editor](https://github.com/CoCreate-app/CoCreate-tui-image-editor) and select your feature branch.
 Click the 'Pull Request' button and fill out the form. Pull requests are usually reviewed within a few days.
 
 ## Rebase

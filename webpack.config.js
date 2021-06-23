@@ -6,14 +6,14 @@ const { CleanWebpackPlugin } = require("clean-webpack-plugin")
 
 module.exports = {
   entry: {
-    "CoCreate-boilerplate": "./src/index.js",
+    "CoCreate-tui-image-editor": "./src/index.js",
   },
   output: {
     path: path.resolve(__dirname, "dist"),
     filename: isProduction ? "[name].min.js" : "[name].js",
     libraryTarget: "umd",
     libraryExport: "default",
-    library: ["CoCreate", "boilerplate"],
+    library: ["CoCreate", "tui-image-editor"],
     globalObject: "this",
     // publicPath: 'https://server.cocreate.app/CoCreateJS/dist/'
   },
