@@ -1,3 +1,10 @@
+# 1.0.0 (2021-06-23)
+
+
+### Features
+
+* Initial Release ([b102ea1](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/b102ea135cd59312604e31cd8546ce13c045dab0))
+
 ## [1.1.1](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.1.0...v1.1.1) (2021-05-28)
 
 
