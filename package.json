@@ -1,6 +1,6 @@
 {
   "name": "@cocreate/tui-image-editor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple tui-image-editor component in vanilla javascript. Easily configured using HTML5 data-attributes and/or JavaScript API.",
   "keywords": [
     "tui-image-editor",
@@ -20,7 +20,9 @@
     "html5-framework",
     "javascript-framework"
   ],
-  "publishConfig": { "access": "private" },
+  "publishConfig": {
+    "access": "private"
+  },
   "scripts": {
     "start": "npx webpack --config webpack.config.js",
     "build": "NODE_ENV=production npx webpack --config webpack.config.js",
