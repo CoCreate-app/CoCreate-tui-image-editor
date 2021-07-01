@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.0.5...v1.0.6) (2021-07-01)
+
+
+### Bug Fixes
+
+* npm public ([d5e56aa](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/d5e56aa07093ff387e1d7badb650c2bf73d08938))
+
 ## [1.0.5](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.0.4...v1.0.5) (2021-06-30)
 
 
