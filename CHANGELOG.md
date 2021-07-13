@@ -1,3 +1,11 @@
+## [1.0.8](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.0.7...v1.0.8) (2021-07-13)
+
+
+### Bug Fixes
+
+* add yarn lockfile to git ignore ([e3785ba](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/e3785ba7c9a7909792b7eda0d5de0123eb1e6846))
+* remove yarn.lock ([4e3a3c3](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/4e3a3c3290f54d4101cee5432b7eeedd877edeb4))
+
 ## [1.0.7](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.0.6...v1.0.7) (2021-07-10)
 
 
