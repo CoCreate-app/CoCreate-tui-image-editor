@@ -1,3 +1,10 @@
+## [1.0.10](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.0.9...v1.0.10) (2021-07-17)
+
+
+### Bug Fixes
+
+* workflows ([8bd966a](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/8bd966a76bd4c4ea44cda4d2f0d46a20f90bd4be))
+
 ## [1.0.9](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.0.8...v1.0.9) (2021-07-14)
 
 
