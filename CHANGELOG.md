@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.0.10...v1.1.0) (2021-07-28)
+
+
+### Features
+
+* add new is{attribute} system and remove data- from attributtes ([e39614b](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/e39614b34095af35e0885e9cb49c6f3014003f2a))
+
 ## [1.0.10](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.0.9...v1.0.10) (2021-07-17)
 
 
