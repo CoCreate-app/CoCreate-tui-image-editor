@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.1.0...v1.1.1) (2021-07-28)
+
+
+### Bug Fixes
+
+* remove data- from fetch, pass and filter ([ab1bee9](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/ab1bee93ccf3c315d0b8cfe364381382b0a41090))
+
 # [1.1.0](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.0.10...v1.1.0) (2021-07-28)
 
 
