@@ -1,3 +1,11 @@
+## [1.1.2](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.1.1...v1.1.2) (2021-08-02)
+
+
+### Bug Fixes
+
+* remove data- from attributes ([b1ac2a0](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/b1ac2a03bacef3a9a47c7bcd14d74f717cc78173))
+* update data-fullscreen to fullscreen ([ab14eb5](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/ab14eb5e986205443d1ba4ce5e9ac079665bb9b5))
+
 ## [1.1.1](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.1.0...v1.1.1) (2021-07-28)
 
 
