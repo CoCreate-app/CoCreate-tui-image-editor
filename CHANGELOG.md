@@ -1,3 +1,10 @@
+## [1.1.11](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.1.10...v1.1.11) (2021-09-09)
+
+
+### Bug Fixes
+
+* CoCreate.config directory, path, name and  public ([73510cb](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/73510cbeb024ad834ac608d2de28fc476cf3b914))
+
 ## [1.1.10](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.1.9...v1.1.10) (2021-09-08)
 
 
