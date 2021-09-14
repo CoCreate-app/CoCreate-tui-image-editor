@@ -14,6 +14,7 @@ module.exports = {
                 "name": "index.html",
                 "path": "/docs/tui-image-editor/index.html",
                 "domains": [
+                    "cocreate.app",
                     "general.cocreate.app"
                 ],
                 "directory": "/docs/tui-image-editor",
