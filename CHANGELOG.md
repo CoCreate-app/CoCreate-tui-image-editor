@@ -1,3 +1,10 @@
+## [1.1.16](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.1.15...v1.1.16) (2021-09-14)
+
+
+### Bug Fixes
+
+* add cocreate.app to domains ([f30b73e](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/f30b73efd2e40560d8d85639635c07e53b7922a6))
+
 ## [1.1.15](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.1.14...v1.1.15) (2021-09-13)
 
 
