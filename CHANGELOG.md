@@ -1,3 +1,11 @@
+## [1.1.23](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.1.22...v1.1.23) (2021-10-05)
+
+
+### Bug Fixes
+
+* update dependencies ([152ddcc](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/152ddcce61fa7c5cad04b79dd70338dc779aac98))
+* website_id in CoCreate.config ([d9d42f0](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/d9d42f005269acafb3c1c675317be099b3754451))
+
 ## [1.1.22](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.1.21...v1.1.22) (2021-10-04)
 
 
