@@ -1,3 +1,10 @@
+## [1.1.30](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.1.29...v1.1.30) (2021-10-16)
+
+
+### Bug Fixes
+
+* update socket package to fix bug in docs ([85942e2](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/85942e2350384955224f0ed8ea6d532b2a87297c))
+
 ## [1.1.29](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.1.28...v1.1.29) (2021-10-15)
 
 
