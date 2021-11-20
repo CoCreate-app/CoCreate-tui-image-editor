@@ -1,3 +1,10 @@
+## [1.1.43](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.1.42...v1.1.43) (2021-11-20)
+
+
+### Bug Fixes
+
+* remove cdn.CoCreate.min.css ([8a29d6a](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/8a29d6a9f7c069bd176f78d3da0e5980c0aa2c2b))
+
 ## [1.1.42](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.1.41...v1.1.42) (2021-11-20)
 
 
