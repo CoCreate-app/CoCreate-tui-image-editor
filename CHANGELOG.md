@@ -1,3 +1,10 @@
+## [1.1.42](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.1.41...v1.1.42) (2021-11-20)
+
+
+### Bug Fixes
+
+* updated script tags and link tags ([97cc044](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/97cc0440760392244de4356ed2e8654a6b1cc55c))
+
 ## [1.1.41](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.1.40...v1.1.41) (2021-11-20)
 
 
