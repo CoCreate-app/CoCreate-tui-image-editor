@@ -1,3 +1,10 @@
+## [1.1.52](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.1.51...v1.1.52) (2022-01-01)
+
+
+### Bug Fixes
+
+* get-value attribute value now supports a selector added # to all values currently in get-value attributes ([b65b874](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/b65b874f3e46fc268e144e60817aca8d17e470ab))
+
 ## [1.1.51](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.1.50...v1.1.51) (2021-12-15)
 
 
