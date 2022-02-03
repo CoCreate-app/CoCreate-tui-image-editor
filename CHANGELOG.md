@@ -1,3 +1,10 @@
+## [1.1.54](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.1.53...v1.1.54) (2022-02-03)
+
+
+### Bug Fixes
+
+* replaced show and hide class hidden with attribute hidden ([dab5914](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/dab5914d3b8c6a212965320e7ca7143ba913f001))
+
 ## [1.1.53](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.1.52...v1.1.53) (2022-02-01)
 
 
