@@ -1,3 +1,10 @@
+## [1.1.59](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.1.58...v1.1.59) (2022-05-06)
+
+
+### Bug Fixes
+
+* update config organization_Id to organization_id ([907f06b](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/907f06b5c67e8a067f485f2e10694bb165793b38))
+
 ## [1.1.58](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.1.57...v1.1.58) (2022-02-24)
 
 
