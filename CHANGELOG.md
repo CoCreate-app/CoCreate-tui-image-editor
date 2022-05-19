@@ -1,3 +1,10 @@
+## [1.1.60](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.1.59...v1.1.60) (2022-05-19)
+
+
+### Bug Fixes
+
+* update document_id on link index.css ([5eff4d0](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/5eff4d0fb6a5de141fa7a8daa5a72eeee798dec0))
+
 ## [1.1.59](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.1.58...v1.1.59) (2022-05-06)
 
 
