@@ -1,3 +1,10 @@
+## [1.1.71](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.1.70...v1.1.71) (2022-10-02)
+
+
+### Bug Fixes
+
+* bump @cocreate/hosting and @cocreate/socket-client ([07284b8](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/07284b86c821bbbeb590960dcf78bb5bf4d5ad61))
+
 ## [1.1.70](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.1.69...v1.1.70) (2022-10-01)
 
 
