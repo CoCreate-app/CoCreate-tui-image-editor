@@ -1,3 +1,10 @@
+## [1.1.84](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.1.83...v1.1.84) (2022-11-28)
+
+
+### Bug Fixes
+
+* bump dependencies ([b323b5f](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/b323b5f672e4c129e02af8ab0ac439e2719b2b4f))
+
 ## [1.1.83](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.1.82...v1.1.83) (2022-11-27)
 
 
