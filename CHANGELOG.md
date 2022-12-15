@@ -1,3 +1,10 @@
+## [1.1.96](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.1.95...v1.1.96) (2022-12-15)
+
+
+### Bug Fixes
+
+* add missing dev dependency style-loader ([d68d6bd](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/d68d6bd0dcc01a863cf6e4c3cf2fa70739d98e8a))
+
 ## [1.1.95](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.1.94...v1.1.95) (2022-12-13)
 
 
