@@ -1,3 +1,10 @@
+## [1.1.107](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.1.106...v1.1.107) (2023-01-01)
+
+
+### Bug Fixes
+
+* docs sanbox overflow ([c1e0ded](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/c1e0ded37dd51f81daf5627deb92c2e49d2df01a))
+
 ## [1.1.106](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.1.105...v1.1.106) (2022-12-31)
 
 
