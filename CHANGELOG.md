@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.1.117...v1.2.0) (2023-03-16)
+
+
+### Features
+
+* replaced get-value and set-value with a super charged version of CoCreate-events ([c36f262](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/c36f2625782113a4b9ac99ebd9023475849e1355))
+
 ## [1.1.117](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.1.116...v1.1.117) (2023-02-01)
 
 
