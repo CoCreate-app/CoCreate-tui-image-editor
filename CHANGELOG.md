@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.2.3...v1.2.4) (2023-04-11)
+
+
+### Bug Fixes
+
+* renamed domains to hosts ([887ce5a](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/887ce5ab5b4b3c4d0cf921f17ec5b7be3a183bbc))
+
 ## [1.2.3](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.2.2...v1.2.3) (2023-03-30)
 
 
