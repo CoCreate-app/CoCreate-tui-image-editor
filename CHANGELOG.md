@@ -1,3 +1,10 @@
+## [1.3.4](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.3.3...v1.3.4) (2023-04-24)
+
+
+### Bug Fixes
+
+* updated worrkflows to v3 and node version 16 ([9229e09](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/9229e0951acfc5efe954669c66dbcae743a8b982))
+
 ## [1.3.3](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.3.2...v1.3.3) (2023-04-24)
 
 
