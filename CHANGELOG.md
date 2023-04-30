@@ -1,3 +1,12 @@
+## [1.3.5](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.3.4...v1.3.5) (2023-04-30)
+
+
+### Bug Fixes
+
+* fullscreen target updated to fullscreen fullscreen-target ([e15c7bd](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/e15c7bd7c9298104709824cf17b51a3bc7bcfd62))
+* package-lock.json and pnpm-lock.yaml added to .gitignore ([fb23506](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/fb23506eeaa16d1091fdd9cfe065cf131fc05dbc))
+* removed toogle fullscreen icons. now using css content ([c282449](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/c282449efa15fe1214e97c3958c9a9fe88f2955e))
+
 ## [1.3.4](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.3.3...v1.3.4) (2023-04-24)
 
 
