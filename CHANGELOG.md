@@ -1,3 +1,10 @@
+## [1.3.6](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.3.5...v1.3.6) (2023-05-01)
+
+
+### Bug Fixes
+
+* replace fontawesome with svg ([ae5e03b](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/ae5e03b36da6991ad5e07fedbd45e2e89236fe55))
+
 ## [1.3.5](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.3.4...v1.3.5) (2023-04-30)
 
 
