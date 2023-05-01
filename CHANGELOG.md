@@ -1,3 +1,10 @@
+## [1.3.7](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.3.6...v1.3.7) (2023-05-01)
+
+
+### Bug Fixes
+
+* update manifest.json to manifest.webmanifest ([d7348f3](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/d7348f35a906c7a876cc83ab05edf7774df14668))
+
 ## [1.3.6](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.3.5...v1.3.6) (2023-05-01)
 
 
