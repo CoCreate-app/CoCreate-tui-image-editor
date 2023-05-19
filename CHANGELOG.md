@@ -1,3 +1,11 @@
+## [1.3.9](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.3.8...v1.3.9) (2023-05-19)
+
+
+### Bug Fixes
+
+* apikey renamed to key ([100174a](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/100174aede2a904110ab59dbe7b67f26067370a8))
+* update packages to latest version. This commit updates various packages in the dependencies section of the package.json file to their latest published versions, thereby fixing multiple bugs and improving overall performance. ([c7033b1](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/c7033b1ef3845ab1d7d04cf69902f95e43191504))
+
 ## [1.3.8](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.3.7...v1.3.8) (2023-05-06)
 
 
