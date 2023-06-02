@@ -1,3 +1,10 @@
+## [1.3.11](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.3.10...v1.3.11) (2023-06-02)
+
+
+### Bug Fixes
+
+* format demo html ([551f9ab](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/551f9ab2f2bd1577decc8e9358d167192b6a18fb))
+
 ## [1.3.10](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.3.9...v1.3.10) (2023-05-21)
 
 
