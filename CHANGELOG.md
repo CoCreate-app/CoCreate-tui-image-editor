@@ -1,3 +1,10 @@
+## [1.3.14](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.3.13...v1.3.14) (2023-06-04)
+
+
+### Bug Fixes
+
+* Refactor CoCreate.config.js to remove hard-coded credentials ([b3ba365](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/b3ba365879dac607a22358efbcc769d5eca2186b))
+
 ## [1.3.13](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.3.12...v1.3.13) (2023-06-04)
 
 
