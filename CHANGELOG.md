@@ -1,3 +1,10 @@
+## [1.3.12](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.3.11...v1.3.12) (2023-06-04)
+
+
+### Bug Fixes
+
+* **semantic-release:** worklow error solved by running node version 14 ([9a2362c](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/9a2362c1ae0a9fb0e00380d24cabcce6eb5c4a13))
+
 ## [1.3.11](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.3.10...v1.3.11) (2023-06-02)
 
 
