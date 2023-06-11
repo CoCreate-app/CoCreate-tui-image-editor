@@ -1,3 +1,10 @@
+## [1.3.17](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.3.16...v1.3.17) (2023-06-11)
+
+
+### Bug Fixes
+
+* renamed hosts to host. the value can be a string or an array of strings ([e67c7dc](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/e67c7dcdb6a3482ab0baf216bc72cacb9f311e23))
+
 ## [1.3.16](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.3.15...v1.3.16) (2023-06-10)
 
 
