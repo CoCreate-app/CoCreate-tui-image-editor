@@ -1,3 +1,10 @@
+## [1.3.24](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.3.23...v1.3.24) (2023-06-11)
+
+
+### Bug Fixes
+
+* testing workflow ([461fd53](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/461fd53a58e6dc125d94dc8149c6d2e2db4eb47e))
+
 ## [1.3.23](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.3.22...v1.3.23) (2023-06-11)
 
 
