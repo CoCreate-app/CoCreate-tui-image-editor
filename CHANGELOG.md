@@ -1,3 +1,10 @@
+## [1.3.18](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.3.17...v1.3.18) (2023-06-11)
+
+
+### Bug Fixes
+
+* Update dependencies versions for [@cocreate](https://github.com/cocreate) libraries ([7135515](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/713551592bcdd4b357f3b26097fae2664a1fc479))
+
 ## [1.3.17](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.3.16...v1.3.17) (2023-06-11)
 
 
