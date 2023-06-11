@@ -1,3 +1,10 @@
+## [1.3.20](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.3.19...v1.3.20) (2023-06-11)
+
+
+### Bug Fixes
+
+* postintall error ([fec9a34](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/fec9a34f6c10f54235928574c37577093ce4543b))
+
 ## [1.3.19](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.3.18...v1.3.19) (2023-06-11)
 
 
