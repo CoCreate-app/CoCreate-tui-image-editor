@@ -58,7 +58,6 @@
     "webpack-log": "^3.0.1"
   },
   "dependencies": {
-    "@cocreate/cli": "^1.34.0",
     "file-saver": "^2.0.5",
     "tui-image-editor": "^3.14.3"
   }
