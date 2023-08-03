@@ -4,8 +4,8 @@ module.exports = {
     "host": "",
     "sources": [
         {
-            "collection": "files",
-            "document": {
+            "array": "files",
+            "object": {
                 "_id": "637ca69f50234ef1671ce337",
                 "name": "index.html",
                 "path": "/docs/tui-image-editor/index.html",
