@@ -1,3 +1,17 @@
+# [1.4.0](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.3.28...v1.4.0) (2023-08-16)
+
+
+### Bug Fixes
+
+* crud attributes renamed ([689c051](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/689c0516d53224ad4d20bbde841591329d83b4d7))
+* replace -target -selector ([4d1a431](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/4d1a431d57e1f59a9b02fb984288ee6e93c77727))
+* webpack.config and package.json make use of mode=production instead of process.env ([6eb3064](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/6eb3064d1116ab429d9153e305584130aefc457b))
+
+
+### Features
+
+* name attribute and variable renamed to key ([1fb4e6e](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/1fb4e6ea390fe048dc9c8dceea27f147187d5b6c))
+
 ## [1.3.28](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.3.27...v1.3.28) (2023-06-14)
 
 
