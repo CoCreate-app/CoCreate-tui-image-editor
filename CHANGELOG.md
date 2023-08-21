@@ -1,3 +1,12 @@
+## [1.5.1](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.5.0...v1.5.1) (2023-08-21)
+
+
+### Bug Fixes
+
+* /dist/CoCreate.js updated to https://CoCreate.app/dist/CoCreate.js ([86116b5](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/86116b5df7737d9842e1db484bf5b6df43f2775c))
+* replace cdn with /dist ([02cc566](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/02cc566d79b81e4f40cec0037e7f9e5e3976b56d))
+* update file uploader ([2c48e19](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/2c48e190ae77b1ea3d462bc54036894d143d729c))
+
 # [1.5.0](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.4.0...v1.5.0) (2023-08-17)
 
 
