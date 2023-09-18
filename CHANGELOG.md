@@ -1,3 +1,11 @@
+## [1.6.2](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.6.1...v1.6.2) (2023-09-18)
+
+
+### Bug Fixes
+
+*  Add path and pathname ([a29550d](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/a29550d64a605dd958577ad68db93f60cfb628ea))
+* Update CoCreate depndencies to latest versions ([23ecaef](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/23ecaef5692437dfcbb07334c33f5181e48fd4ad))
+
 ## [1.6.1](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.6.0...v1.6.1) (2023-08-21)
 
 
