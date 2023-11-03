@@ -1,3 +1,10 @@
+## [1.6.3](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.6.2...v1.6.3) (2023-11-03)
+
+
+### Bug Fixes
+
+* favicon.ico path ([2b296b3](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/2b296b37a65212112c0cf9a8bf61bd2477cb17dc))
+
 ## [1.6.2](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.6.1...v1.6.2) (2023-09-18)
 
 
