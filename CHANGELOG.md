@@ -1,3 +1,11 @@
+## [1.6.4](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.6.3...v1.6.4) (2023-11-09)
+
+
+### Bug Fixes
+
+* meta name typo ([98a6b06](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/98a6b06d3482a00a539fb361e6a9466907392d1b))
+* update host ([573bab8](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/573bab8a45a2742e3db24a276ae0805e138a75d4))
+
 ## [1.6.3](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.6.2...v1.6.3) (2023-11-03)
 
 
