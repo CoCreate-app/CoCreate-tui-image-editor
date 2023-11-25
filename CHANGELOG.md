@@ -1,3 +1,15 @@
+# [1.8.0](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.7.0...v1.8.0) (2023-11-25)
+
+
+### Bug Fixes
+
+* update nav, edit button and css path ([3fb73f3](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/3fb73f35ab132b9201598f06702178746702c995))
+
+
+### Features
+
+* upgrade dependencies for latest features and fixes ([fa8d544](https://github.com/CoCreate-app/CoCreate-tui-image-editor/commit/fa8d544742924d34c72ea1521f7ece4ae0159a68))
+
 # [1.7.0](https://github.com/CoCreate-app/CoCreate-tui-image-editor/compare/v1.6.5...v1.7.0) (2023-11-19)
 
 
